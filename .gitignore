@@ -1,0 +1,17 @@
+# Binaires et objets
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+# Build
+build/
+cmake-build-*/
+# Éditeurs
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
